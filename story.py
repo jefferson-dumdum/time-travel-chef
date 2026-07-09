@@ -11,7 +11,7 @@ def main():
 
     if choice == "1":
         print("\nYou chose the Giant Garlic! You are sent to Ancient Rome...")
-        print("You land in Caesar's kitchen. He is angry because his soup is bland.")
+        print("You land in Caesar's kitchen. He is angry because his soup is too salty.")
         print("You chop the giant garlic and toss it in. Caesar LOVES it!")
         print("He gives you a golden toga. You are now the Royal Chef of Rome.")
         print("THE END (Garlic Victory!)")
