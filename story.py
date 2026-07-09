@@ -1,7 +1,8 @@
 # The Time-Traveling Chef - A Choose Your Own Adventure Game
+
 def main():
     print("=====================================")
-    print("   THE TIME-TRAVELING CHEF")
+    print("   🍳 THE TIME-TRAVELING CHEF 🍳")
     print("=====================================")
     print("You are a chef in 2024. You find a dusty ancient cookbook.")
     print("You open it and a time portal sucks you in!")
