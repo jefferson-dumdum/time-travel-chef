@@ -11,8 +11,10 @@ def main():
 
     if choice == "1":
         print("\nYou chose the Giant Garlic! You are sent to Ancient Rome...")
-        # We will fill this in later on a branch!
-        print("(To be continued on the 'garlic' branch...)")
+        print("You land in Caesar's kitchen. He is angry because his soup is bland.")
+        print("You chop the giant garlic and toss it in. Caesar LOVES it!")
+        print("He gives you a golden toga. You are now the Royal Chef of Rome.")
+        print("THE END (Garlic Victory!)")
     elif choice == "2":
         print("\nYou chose the Purple Carrot! You are sent to the Viking Age...")
         # We will fill this in later on a branch!
