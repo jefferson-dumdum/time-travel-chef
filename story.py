@@ -17,8 +17,10 @@ def main():
         print("THE END (Garlic Victory!)")
     elif choice == "2":
         print("\nYou chose the Purple Carrot! You are sent to the Viking Age...")
-        # We will fill this in later on a branch!
-        print("(To be continued on the 'carrot' branch...)")
+        print("You land in a longhouse. The Vikings are confused by the purple veggie.")
+        print("You roast it over the fire and serve it with honey.")
+        print("The Vikings cheer! They name you 'Carrot-Slayer' and give you a ship.")
+        print("THE END (Carrot Victory!)")
     else:
         print("Invalid choice! The portal spits you back out. You lose.")
 
